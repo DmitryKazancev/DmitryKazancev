@@ -10,22 +10,14 @@
 <br />
 <br />
 🧑‍🏭 Мой стек:   <br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,webpack,figma)](https://github.com/DmitryKazancev)  
 <br />
 📔 Контакты:
-
-LinkedIn: [![My Contacts](https://www.linkedin.com/in/dmitrykaz)](https://www.linkedin.com/in/dmitrykaz)  
-
-
-Telegram: [![My Contacts](https://t.me/syber_x)](https://t.me/syber_x)  
-
-
+LinkedIn: [https://www.linkedin.com/in/dmitrykaz](https://www.linkedin.com/in/dmitrykaz)  
+Telegram: [https://t.me/syber_x](https://t.me/syber_x)  
 <br />  
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,webpack,figma)](https://github.com/DmitryKazancev)  
-
 <br />
 <br />
-
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 <br />
