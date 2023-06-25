@@ -9,8 +9,11 @@
 - 🏃 Не останавливаюсь на достигнутом.
 <br />
 <br />
-
 🧑‍🏭 Мой стек:   <br />
+<br />
+📔 Контакты: 
+LinkedIn: [![My Contacts](https://www.linkedin.com/in/dmitrykaz)](https://www.linkedin.com/in/dmitrykaz)
+Telegram: [![My Contacts](https://t.me/syber_x)](https://t.me/syber_x)
 <br />
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,webpack,figma)](https://github.com/DmitryKazancev)  
 <br />
