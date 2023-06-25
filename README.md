@@ -10,11 +10,9 @@
 <br />
 <br />
 🧑‍🏭 Мой стек:
-<br />  
+<br />   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,webpack,figma)](https://github.com/DmitryKazancev)  
-
 <br />  
-
 📔 Контакты:  
 
 LinkedIn: [https://www.linkedin.com/in/dmitrykaz](https://www.linkedin.com/in/dmitrykaz)  
