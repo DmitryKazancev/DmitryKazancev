@@ -9,8 +9,8 @@
 - 🏃 Не останавливаюсь на достигнутом.
 <br />
 <br />
-🧑‍🏭 Мой стек:   <br />
-
+🧑‍🏭 Мой стек:
+<br />  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,git,webpack,figma)](https://github.com/DmitryKazancev)  
 
 <br />  
